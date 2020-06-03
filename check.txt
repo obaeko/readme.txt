@@ -1,0 +1,104 @@
+ <!doctype html>
+<html lang="en">
+    <head>
+<!-- GENERAL INFO -->
+    <title> Book lovers are eggheads</title>
+    <meta charset="utf-8">
+    <meta name="description" content="It is nice to love reading novels and literary works. This is because it helps to improve human level of reasonning and intelligeny quotient">
+    
+    <!-- LINKS TO CSS FILE ("STYLESHEET") AND SITE ICON -->
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+    <link href="favicon.ico" type="image/x-icon" rel="shortcut icon" >
+    
+    <!-- FACEBOOK METADATA -->
+    <meta property="og:image" content="https://dogsdogsdogs.com/images/dog.png">
+    <meta property="og:description" content="Dogs are incredible creatures. There may still be some facts you don't know about them!">
+    <meta property="og:title" content="10 Fun Facts About Dogs">
+    
+    <!-- TWITTER METADATA -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="10 Fun Facts About Dogs">
+    <meta name="twitter:description" content="Dogs are incredible creatures. There may still be some facts you don't know about them!">
+    <meta name="twitter:image" content="https://dogsdogsdogs.com/images/dog.png">
+    </head>
+
+    <body>
+    <h1>My Favorites</h1>
+    <p class="a"> This is a page about my favorite movies, books, foods and songs. To find out more about movies collection on the most popular site, click <a href="https://netflix.com"> here </a> </p>
+    
+      <h2>Books</h2>
+ <ol>
+	<li> Cosmos by Carl Sagun </li>
+	<li> Creativity, Inc by Ed Catmull </li>
+	<li> A Little Life by Hanya Yanagihara </li>
+	<li> Pochinko by Min Jin Lee </li>
+	<li> Americanah by Chimama,da Ngozi Adichie </li>
+</ol>
+
+    <h2>Foods</h2>
+<ol type="i">
+	<li> Peanut butter and banana on a whole wheat bagel </li>
+	<li> Vegan tacos, extra guac </li>
+	<li> Strawberries </li>
+	<li> Anything spicy </li> 
+</ol>
+     
+
+     <h2>Songs</h2>
+<ol type="a">
+	<li> "This Must Be The Place" by Talking Heads </li>
+	<li> "Mond Playing Tricks on Me" by Geto Boys </li>
+	<li> "Policy of Truth" by Depeche Mode </li>
+	<li> "The Magnificient Seven" by the Clash </li>
+	<li>  "Obastacle 1" by Interpol </li>
+</ol>
+
+<h2> Movies</h2>
+	<ol type="I">
+<li> The Miracle Season </li>
+<li> Gold Statue </li>
+<li> Merrymen </li>
+<li> 10 days in Sun city </li> 
+</ol>
+
+
+    <p class="address">
+        824 Broadway<br>
+        New York, NY 10003
+    </p>
+    <p>There are multiple Bean locations in the city. It's a good place to get work done because they're open late.</p>
+
+    <h3>Third Rail</h3>
+    <p class="address">
+        240 Sullivan St<br>
+        New York, NY 10012
+    </p>
+    <p>Coffee and donuts! What more could you want?</p>
+    
+    <h3>Black Fox Coffee Co.</h3>
+    <p class="address">
+        70 Pine St<br>
+        New York, NY 10270
+    </p>
+    <p>Black Fox has an incredible bean selection and nice snacks.</p>
+
+    <h3>Stumptown</h3>
+    <p class="address">
+        18 W 29th St<br>
+        New York, NY 10001<br>
+	USA
+    </p>
+    <p>Does this even need explaining?</p>
+    
+    <hr>
+
+    <h2>Brooklyn</h2>
+    <h3>Toby's Estate</h3>
+    <p class="address">
+        125 N 6th St<br>
+        Brooklyn, NY 11249
+    </p>
+    <p>Toby's has grown a lot from its initial location in Brooklyn. They now have three locations in NYC.</p>
+
+    </body>
+</html>
